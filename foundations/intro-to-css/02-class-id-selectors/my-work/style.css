@@ -1,0 +1,16 @@
+.All-odd-numbered-elements {
+     background-color: #ffcccb;
+     font-family: verdana, "Dejavu sans", sans-serif;     
+}
+.All-odd-numbered-elements.The-third-element {
+     font-size: 24px;
+}
+#The-second-element {
+     color: rgb(0, 0, 255);
+     font-size: 36px;
+}
+#The-fourth-element {
+     background-color: #90ee90;
+     font-weight: bold;
+     font-size: 24px;
+}
